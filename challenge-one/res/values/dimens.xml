@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="font_medium">16sp</dimen>
+    <dimen name="margin_medium">50dp</dimen>
+    <dimen name="margin_micro">4dp</dimen>
+    <dimen name="margin_small">20dp</dimen>
+    <dimen name="margin_tiny">8dp</dimen>
+</resources>
