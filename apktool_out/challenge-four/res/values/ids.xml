@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="container">false</item>
+    <item type="id" name="TextView_Title">false</item>
+    <item type="id" name="TextView_SubTitle">false</item>
+    <item type="id" name="TextView_Credits">false</item>
+    <item type="id" name="button_quit">false</item>
+    <item type="id" name="TextView_Challenge_Intro">false</item>
+    <item type="id" name="TextView_latitude">false</item>
+    <item type="id" name="TextView_longitude">false</item>
+    <item type="id" name="challenge_four_button_check">false</item>
+    <item type="id" name="switch_show_hint">false</item>
+    <item type="id" name="text_hint">false</item>
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ActionBar.Solid.Nebula" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:progressBarStyle">@style/ProgressBar.Nebula</item>
+        <item name="android:background">@drawable/ab_solid_nebula</item>
+    </style>
+    <style name="ActionBar.Transparent.Nebula" parent="@android:style/Widget.Holo.ActionBar">
+        <item name="android:progressBarStyle">@style/ProgressBar.Nebula</item>
+        <item name="android:background">@drawable/ab_transparent_nebula</item>
+    </style>
+    <style name="ActionBarTabStyle.Nebula" parent="@android:style/Widget.Holo.ActionBar.TabView">
+        <item name="android:background">@drawable/tab_indicator_ab_nebula</item>
+    </style>
+    <style name="ActionButton.CloseMode.Nebula" parent="@android:style/Widget.Holo.ActionButton.CloseMode">
+        <item name="android:background">@drawable/btn_cab_done_nebula</item>
+    </style>
+    <style name="AppTheme" parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <item name="android:dropDownListViewStyle">@style/DropDownListView.Nebula</item>
+        <item name="android:actionBarStyle">@style/ActionBar.Solid.Nebula</item>
+        <item name="android:actionDropDownStyle">@style/DropDownNav.Nebula</item>
+        <item name="android:actionModeBackground">@drawable/cab_background_top_nebula</item>
+        <item name="android:actionBarTabStyle">@style/ActionBarTabStyle.Nebula</item>
+        <item name="android:actionModeCloseButtonStyle">@style/ActionButton.CloseMode.Nebula</item>
+        <item name="android:popupMenuStyle">@style/PopupMenu.Nebula</item>
+    </style>
+    <style name="DropDownListView.Nebula" parent="@android:style/Widget.Holo.ListView.DropDown">
+        <item name="android:listSelector">@drawable/selectable_background_nebula</item>
+    </style>
+    <style name="DropDownNav.Nebula" parent="@android:style/Widget.Holo.Spinner">
+        <item name="android:background">@drawable/spinner_background_ab_nebula</item>
+        <item name="android:dropDownSelector">@drawable/selectable_background_nebula</item>
+        <item name="android:popupBackground">@drawable/menu_dropdown_panel_nebula</item>
+    </style>
+    <style name="PopupMenu.Nebula" parent="@android:style/Widget.Holo.ListPopupWindow">
+        <item name="android:popupBackground">@drawable/menu_dropdown_panel_nebula</item>
+    </style>
+    <style name="ProgressBar.Nebula" parent="@android:style/Widget.Holo.ProgressBar.Horizontal">
+        <item name="android:progressDrawable">@drawable/progress_horizontal_nebula</item>
+    </style>
+    <style name="Theme.Nebula.Widget" parent="@android:style/Theme.Holo">
+        <item name="android:dropDownListViewStyle">@style/DropDownListView.Nebula</item>
+        <item name="android:popupMenuStyle">@style/PopupMenu.Nebula</item>
+    </style>
+</resources>

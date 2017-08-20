@@ -1,0 +1,389 @@
+Signature-Version: 1.0
+X-Android-APK-Signed: 2
+SHA1-Digest-Manifest: jl/zgIn4JSvJ0DCn2iu5NxjFlRA=
+Created-By: 1.0 (Android)
+
+Name: res/drawable-xxhdpi-v4/tab_unselected_focused_nebula.9.png
+SHA1-Digest: JevmBxYLdzhapTEeZAZjwaSZ7iM=
+
+Name: res/drawable-mdpi-v4/list_pressed_nebula.9.png
+SHA1-Digest: hZ5gdOiNz/usJaFc9/GHReRrbLI=
+
+Name: res/drawable-xxhdpi-v4/tab_selected_focused_nebula.9.png
+SHA1-Digest: Kq64f3yx8wgqOqOs8wXbwsNfmSc=
+
+Name: res/drawable-xxhdpi-v4/btn_cab_done_default_nebula.9.png
+SHA1-Digest: Jb4a11cMQBxAwEcV16G//yMLiFs=
+
+Name: res/drawable-hdpi-v4/tab_unselected_pressed_nebula.9.png
+SHA1-Digest: Erq/j0EDpEuKoAkZuVE2Z/H2Qks=
+
+Name: res/drawable-hdpi-v4/spinner_ab_disabled_nebula.9.png
+SHA1-Digest: KElub0S2hBQwF9lGlqHnEpiIwGA=
+
+Name: res/drawable-hdpi-v4/btn_cab_done_focused_nebula.9.png
+SHA1-Digest: 46nWOe5OEr5SMj170NqERPYCt/w=
+
+Name: res/drawable/tab_indicator_ab_nebula.xml
+SHA1-Digest: r0EHdSD67TOvAKHMX6AcnUkrjsg=
+
+Name: res/drawable-mdpi-v4/spinner_ab_default_nebula.9.png
+SHA1-Digest: wfXz5RQd0Ix+R9frKVKFYOVR+e8=
+
+Name: res/drawable-xxhdpi-v4/ab_transparent_nebula.9.png
+SHA1-Digest: IBnL+0AeYsHqRatfp7ErVtTNaGk=
+
+Name: res/drawable-hdpi-v4/progress_bg_nebula.9.png
+SHA1-Digest: m0iPfo/tH+WvEjJm8X1mjR6rgAI=
+
+Name: res/drawable-hdpi-v4/tab_selected_focused_nebula.9.png
+SHA1-Digest: Q7TowLKkTW5GwphGkkonD0DFLCU=
+
+Name: res/drawable-mdpi-v4/spinner_ab_focused_nebula.9.png
+SHA1-Digest: ZRB6dutR6p+i+ZgU6Z3MzaqT/rk=
+
+Name: res/drawable-hdpi-v4/btn_cab_done_default_nebula.9.png
+SHA1-Digest: wOIxN/03IC6MucQ9KRpw9H5S3kU=
+
+Name: res/drawable-xxhdpi-v4/btn_cab_done_focused_nebula.9.png
+SHA1-Digest: mNpzD2h1dDeeol5AjzsA6g7zXUQ=
+
+Name: res/drawable-mdpi-v4/btn_cab_done_pressed_nebula.9.png
+SHA1-Digest: R5Qisx9DkCMWB3Xho2irQ95nILM=
+
+Name: res/drawable-hdpi-v4/ab_bottom_solid_nebula.9.png
+SHA1-Digest: F6Ra1/DGxU7K1q53HPqfsD4vL7Q=
+
+Name: res/drawable-xxhdpi-v4/progress_secondary_nebula.9.png
+SHA1-Digest: MU3teydYTrQeNowRSzyBSq9ojDg=
+
+Name: res/drawable-xxhdpi-v4/cab_background_bottom_nebula.9.png
+SHA1-Digest: XM9lUerMe3ArXSfaXEAWPx056oc=
+
+Name: res/drawable-hdpi-v4/cab_background_bottom_nebula.9.png
+SHA1-Digest: jMfCiUlqpuZZt7x1mI44qfK9XFo=
+
+Name: res/drawable-hdpi-v4/list_focused_nebula.9.png
+SHA1-Digest: BfxecrDK9I9OOuwtQyNYPTagvW8=
+
+Name: res/drawable-xxhdpi-v4/btn_cab_done_pressed_nebula.9.png
+SHA1-Digest: /Dtui8JYYDYCU7J9f2bW7a5ny58=
+
+Name: res/drawable-mdpi-v4/spinner_ab_pressed_nebula.9.png
+SHA1-Digest: DOvqtWNiIw0eu0pAe0geC6wxnOo=
+
+Name: res/drawable-xxxhdpi-v4/ic_launcher.png
+SHA1-Digest: skM8QqPGcg9usagboKBsiwuF3sQ=
+
+Name: res/drawable-hdpi-v4/ab_stacked_solid_nebula.9.png
+SHA1-Digest: UNusY45zph2ILgLSpuFJNDQeb5k=
+
+Name: res/drawable-xhdpi-v4/ab_stacked_solid_nebula.9.png
+SHA1-Digest: xOWDymAHG/qaWxDy0akAXfni27c=
+
+Name: res/drawable-xxhdpi-v4/ab_solid_nebula.9.png
+SHA1-Digest: SXtQQwYN06Lz76cZUAJU6aPTgkc=
+
+Name: res/drawable-xxhdpi-v4/tab_selected_pressed_nebula.9.png
+SHA1-Digest: 07wuIjMUr4vdY2uEIS/ZBam63uo=
+
+Name: res/drawable-hdpi-v4/btn_cab_done_pressed_nebula.9.png
+SHA1-Digest: K+SITBkB7F/TafpLCGVycx+fl84=
+
+Name: res/drawable-xxhdpi-v4/tab_unselected_pressed_nebula.9.png
+SHA1-Digest: hSHqE8TEjDMC2roW6m92B7YRsIw=
+
+Name: res/drawable-xhdpi-v4/tab_unselected_nebula.9.png
+SHA1-Digest: ygLEFHciPUlSpJwV5XE9s0K/CnY=
+
+Name: res/drawable-xhdpi-v4/progress_secondary_nebula.9.png
+SHA1-Digest: 0VmojwLVp+pgzx6Um5YCZPPJcUI=
+
+Name: resources.arsc
+SHA1-Digest: SU8kyqrPV7+29MDLpE4p3jzUrbk=
+
+Name: res/drawable-hdpi-v4/tab_selected_nebula.9.png
+SHA1-Digest: hQTDpC+nHam60HCuiIJTLam6wxw=
+
+Name: res/drawable-hdpi-v4/tab_selected_pressed_nebula.9.png
+SHA1-Digest: 3WllWXwO4XzbAauHkwEollqdMoo=
+
+Name: res/drawable-mdpi-v4/spinner_ab_disabled_nebula.9.png
+SHA1-Digest: KG7Ro034AOuzsXWlpPO9eRjqcMc=
+
+Name: res/layout/fragment_hint.xml
+SHA1-Digest: W9XBBjp11MLYaSxnJgx+mTJi294=
+
+Name: AndroidManifest.xml
+SHA1-Digest: jCs5Jp7pVoQuLGH6tsq6+mvHmig=
+
+Name: res/drawable-hdpi-v4/spinner_ab_default_nebula.9.png
+SHA1-Digest: 1/7A3+8BxARxKEjtSPMDKyNHP4w=
+
+Name: res/drawable-mdpi-v4/ab_transparent_nebula.9.png
+SHA1-Digest: QgAtyHFWGFzI0V77mJQME3FvMxk=
+
+Name: res/drawable-xxhdpi-v4/spinner_ab_disabled_nebula.9.png
+SHA1-Digest: qIUfTCfupknuTmmgQ33P1ikLuLY=
+
+Name: res/drawable-hdpi-v4/ab_transparent_nebula.9.png
+SHA1-Digest: lwNzJL5pxnCKK2NmZNPiAa2GjaU=
+
+Name: res/drawable-hdpi-v4/spinner_ab_focused_nebula.9.png
+SHA1-Digest: vjc1XFBfta8d8OSNE3i1IKufLpw=
+
+Name: res/drawable/repeating_texture.xml
+SHA1-Digest: bjw9GG99J4SvdgyA8zwBSk1BVDw=
+
+Name: res/drawable-xhdpi-v4/cab_background_top_nebula.9.png
+SHA1-Digest: 48gy3uxN9Dpw6bb44aQTc0hZ8Ww=
+
+Name: res/layout/fragment_about.xml
+SHA1-Digest: 5EliTs1g36WFvxKxbC2griyZx0A=
+
+Name: res/drawable-mdpi-v4/ab_texture_tile_nebula.png
+SHA1-Digest: CRiIzUaNStDNsK9e6Jm4Kq4odG0=
+
+Name: res/drawable/tiny_grid.png
+SHA1-Digest: 8DdMbJSaDFJXghbXVEus/265f7U=
+
+Name: res/drawable-mdpi-v4/menu_dropdown_panel_nebula.9.png
+SHA1-Digest: ho3N4PjAeESsLY+/MwxkuJlYY2E=
+
+Name: res/drawable-mdpi-v4/ab_stacked_solid_nebula.9.png
+SHA1-Digest: 7U570RL+bVs3A9GrhjGnEXj36rQ=
+
+Name: res/drawable-hdpi-v4/list_pressed_nebula.9.png
+SHA1-Digest: oTdCsHGJz57P9RPAOLCb9c+wwAc=
+
+Name: res/drawable/btn_cab_done_nebula.xml
+SHA1-Digest: 45ogS9YIE0pC1cGCe1JsiaSfCi0=
+
+Name: res/drawable-hdpi-v4/menu_dropdown_panel_nebula.9.png
+SHA1-Digest: 2OMKs2+p/i8M0629FeH8736ISM0=
+
+Name: res/drawable-hdpi-v4/ab_texture_tile_nebula.png
+SHA1-Digest: HUjZluoFo0TwligyzQEPq30ZzBI=
+
+Name: res/drawable-mdpi-v4/tab_unselected_nebula.9.png
+SHA1-Digest: UosYhWUdhSmzwNpr52keEHLQsV8=
+
+Name: res/drawable-mdpi-v4/tab_selected_focused_nebula.9.png
+SHA1-Digest: o22R0esiip6Xm9TI7/RzAocJHHA=
+
+Name: res/drawable-hdpi-v4/tab_unselected_nebula.9.png
+SHA1-Digest: Dx4IguC8Mewfhxxf2VpwLZpr4ng=
+
+Name: res/drawable-hdpi-v4/cab_background_top_nebula.9.png
+SHA1-Digest: 4ceF5/BBKqLZkN+onaXHYeM5RTA=
+
+Name: res/drawable-mdpi-v4/list_focused_nebula.9.png
+SHA1-Digest: hNnH5U50k0kQxKWPB5l8p/QeaPE=
+
+Name: res/drawable-xhdpi-v4/spinner_ab_disabled_nebula.9.png
+SHA1-Digest: yVr6rlMezyKtGbhAiNnHsBmtj1I=
+
+Name: res/drawable-xhdpi-v4/tab_unselected_pressed_nebula.9.png
+SHA1-Digest: by0SE4VoNvzXAmyGwIwA4TxIr98=
+
+Name: res/drawable-hdpi-v4/progress_primary_nebula.9.png
+SHA1-Digest: xq43Lo3Q/CFfqpDmKxTRm6zJreI=
+
+Name: res/drawable-xhdpi-v4/cab_background_bottom_nebula.9.png
+SHA1-Digest: kLpjh/WL2KtZfKEjlo+oN/GtbhA=
+
+Name: res/drawable/button_purple_small.xml
+SHA1-Digest: aAw/4tFSUqutPXKoO4LK4u9Xxfs=
+
+Name: res/drawable-xhdpi-v4/tab_selected_focused_nebula.9.png
+SHA1-Digest: lzx7Rjj/00nX53GRM3QjUPme8Cw=
+
+Name: res/layout/activity_challenge.xml
+SHA1-Digest: OL5LH2OTzKOxy7Wey4YCnos73ws=
+
+Name: res/drawable-xxhdpi-v4/ab_stacked_solid_nebula.9.png
+SHA1-Digest: ssqh22Y0yVoa4TOWu+j/EJY+4gM=
+
+Name: res/drawable-mdpi-v4/ab_solid_nebula.9.png
+SHA1-Digest: dVzZdrXP/IS+MQSQI7eeb7SgkcU=
+
+Name: res/drawable-xhdpi-v4/tab_selected_pressed_nebula.9.png
+SHA1-Digest: p8ZtXDH4ikLxYxOiiS5i6J37Bf4=
+
+Name: res/drawable/button_purple_small_style_pressed.xml
+SHA1-Digest: FEFeau1Z6VGmbMY3cs29O24IqNU=
+
+Name: res/drawable-mdpi-v4/tab_unselected_pressed_nebula.9.png
+SHA1-Digest: d2Zc0vlNbUFhuopmsE4iKO9YeDI=
+
+Name: res/drawable-xhdpi-v4/tab_selected_nebula.9.png
+SHA1-Digest: Ho9IKCgXM0+fAVLJY/r54ZDiIc4=
+
+Name: res/drawable-hdpi-v4/ab_solid_nebula.9.png
+SHA1-Digest: wYx/Cf0HckNq02jHd5V7jHHxYng=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: OYjwmoSBQ1IcO+J24VDffemi0xs=
+
+Name: res/drawable-xxhdpi-v4/ab_bottom_solid_nebula.9.png
+SHA1-Digest: pIYB9V4WnNQ9hgw27CuxLlo9n18=
+
+Name: res/drawable-hdpi-v4/progress_secondary_nebula.9.png
+SHA1-Digest: Tp+W6BR1+QOJOy5svN6QLRn0JcU=
+
+Name: res/drawable-mdpi-v4/progress_primary_nebula.9.png
+SHA1-Digest: ibIKC0ILOr58u3QIlnVPNplL0QY=
+
+Name: res/drawable-xhdpi-v4/spinner_ab_default_nebula.9.png
+SHA1-Digest: deNRDT2m76t10VdIBJ6pXe3NtQk=
+
+Name: res/drawable-xhdpi-v4/spinner_ab_focused_nebula.9.png
+SHA1-Digest: Uu4tvVD/1wXpT/Ya7ovdMkvc6lY=
+
+Name: res/drawable-xhdpi-v4/ab_transparent_nebula.9.png
+SHA1-Digest: iCSmFy2qPgxpBZZGXqp6pEm/khk=
+
+Name: res/drawable-xxhdpi-v4/progress_primary_nebula.9.png
+SHA1-Digest: 6WbySX6Od/XOk00sB0xjZ7ermjo=
+
+Name: res/drawable-xhdpi-v4/btn_cab_done_pressed_nebula.9.png
+SHA1-Digest: rP4A26gp5X0wIzo3QK1SKfuZpXs=
+
+Name: res/drawable-xxhdpi-v4/spinner_ab_pressed_nebula.9.png
+SHA1-Digest: 0tTSyH4lseAu/DKz9mrFV6a8MLA=
+
+Name: res/drawable-xhdpi-v4/list_focused_nebula.9.png
+SHA1-Digest: N2RdE5++k5Ipj0CC9NLFwqya3sU=
+
+Name: res/drawable/spinner_background_ab_nebula.xml
+SHA1-Digest: BFqlQrigWv9VXiD4gxyicBhvSZ0=
+
+Name: res/drawable-xhdpi-v4/ab_bottom_solid_nebula.9.png
+SHA1-Digest: UevXoE763Xd+Ot/3CCkM4UC4bD8=
+
+Name: res/drawable-xhdpi-v4/spinner_ab_pressed_nebula.9.png
+SHA1-Digest: AN8BwwvneQIpkOXHv4YIpBgL6u0=
+
+Name: res/drawable-mdpi-v4/progress_bg_nebula.9.png
+SHA1-Digest: vY4WsRVXI66YOdU/rZiyDR49eYc=
+
+Name: res/drawable-xhdpi-v4/ab_texture_tile_nebula.png
+SHA1-Digest: HxnqJrYohLWKb1/FuGrHE9om88Q=
+
+Name: res/drawable-mdpi-v4/ab_bottom_solid_nebula.9.png
+SHA1-Digest: hU4mUvlVm5vx3g1qsZ+HbS8WjAE=
+
+Name: res/drawable-mdpi-v4/progress_secondary_nebula.9.png
+SHA1-Digest: sx9MvwAWmGAmNypk4xYOuWVeSO8=
+
+Name: res/drawable/ab_background_textured_nebula.xml
+SHA1-Digest: Dz0E4m2C+gcDIEmiOFKkUC1KqGY=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: gGPRiYGoYt1Ze203oIGUg4UMb0A=
+
+Name: res/drawable-xxhdpi-v4/tab_unselected_nebula.9.png
+SHA1-Digest: MFvwzKXu3V/TizM78B4UP6zhF1k=
+
+Name: res/drawable-xhdpi-v4/list_pressed_nebula.9.png
+SHA1-Digest: O917WiC2rJAXhqZyTi8XP7zfi4Y=
+
+Name: res/drawable-xxhdpi-v4/tab_selected_nebula.9.png
+SHA1-Digest: wV94ZtI1Y07LtU1zHanmxweyPfU=
+
+Name: res/drawable-xxhdpi-v4/list_focused_nebula.9.png
+SHA1-Digest: KyOSnBWFmhHA2yrwxctYbpGXlwU=
+
+Name: res/drawable-xhdpi-v4/progress_primary_nebula.9.png
+SHA1-Digest: xiEXKhO+hcVYRlK8GXUI+LfITXM=
+
+Name: res/drawable/progress_horizontal_nebula.xml
+SHA1-Digest: rJLg/k72XS3zw7QJud0/tfRkflM=
+
+Name: res/drawable/selectable_background_nebula.xml
+SHA1-Digest: t/pmbInStkh+ER7zPYjAp1HtbHo=
+
+Name: res/drawable-xxhdpi-v4/list_pressed_nebula.9.png
+SHA1-Digest: 4y3zuP4V8XLYLUFTx2ZfN2nrhVA=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: lZ3szdx3P/MKk4jKDI9aR0rKwRo=
+
+Name: res/drawable-mdpi-v4/cab_background_bottom_nebula.9.png
+SHA1-Digest: v4aHH+XSa+QMIJm5B4uH19O5SG8=
+
+Name: res/drawable-xhdpi-v4/ab_solid_nebula.9.png
+SHA1-Digest: 04r1BamS2VsbaEGhDPn5cBY+Llw=
+
+Name: res/drawable-mdpi-v4/cab_background_top_nebula.9.png
+SHA1-Digest: k/SdoXnX+DjG7t2U1PbyC2EgdPE=
+
+Name: res/drawable-xxhdpi-v4/menu_dropdown_panel_nebula.9.png
+SHA1-Digest: 8wiqgDVtq13ObKKRXIlRr3Vpqho=
+
+Name: res/drawable-xhdpi-v4/tab_unselected_focused_nebula.9.png
+SHA1-Digest: 1AWAunqe61pTW4bnWaiCd+S9Ay8=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: xGjgt1QHBTVHNFgA6cQLbslt2aQ=
+
+Name: res/drawable-xhdpi-v4/progress_bg_nebula.9.png
+SHA1-Digest: YgalwFYjo2G7UqQjYMVUR1ACp9c=
+
+Name: res/menu/challenge_one.xml
+SHA1-Digest: 2Aq+Ca4NVHE6kxWxKr51cfzQWvg=
+
+Name: res/drawable/button_purple_small_style.xml
+SHA1-Digest: McbOFLxT6h5+5upBTikmqPultns=
+
+Name: res/drawable-mdpi-v4/btn_cab_done_focused_nebula.9.png
+SHA1-Digest: zRHcV/03L9sgASYNiYYFVSmTTm8=
+
+Name: res/drawable-hdpi-v4/spinner_ab_pressed_nebula.9.png
+SHA1-Digest: xmlP5SxvNUjol+/ViBtu0eL6yvc=
+
+Name: res/drawable-mdpi-v4/tab_selected_pressed_nebula.9.png
+SHA1-Digest: Gf5H+BMWr5Pv7/m8hKxF+B2WWAA=
+
+Name: res/drawable-xxhdpi-v4/progress_bg_nebula.9.png
+SHA1-Digest: swDWB15a1JDXhpMJKcUGZ+8iBuU=
+
+Name: res/layout/fragment_challenge_four.xml
+SHA1-Digest: sGC0PxkMyS+EyWBA5msF0M/aP3E=
+
+Name: res/drawable-xhdpi-v4/menu_dropdown_panel_nebula.9.png
+SHA1-Digest: 4KnOq33f+U4+9S0oHvLPNTrR0fU=
+
+Name: res/drawable-mdpi-v4/btn_cab_done_default_nebula.9.png
+SHA1-Digest: teGcvsXGpjjSfWBsiYP2grIRVh4=
+
+Name: res/drawable-mdpi-v4/tab_unselected_focused_nebula.9.png
+SHA1-Digest: r6jMoZ3kVHASoBKjrY0isp1IPWo=
+
+Name: res/drawable-xxhdpi-v4/spinner_ab_focused_nebula.9.png
+SHA1-Digest: f1qWiAyuDY5WWMUow/8afQOl4Oc=
+
+Name: res/drawable-hdpi-v4/tab_unselected_focused_nebula.9.png
+SHA1-Digest: w4Ub8L7dAtSLIqazGMNF1MMPrxU=
+
+Name: res/drawable-mdpi-v4/tab_selected_nebula.9.png
+SHA1-Digest: 3HiIY+GMg4Wzdr+Qp1/bjM2k4LI=
+
+Name: res/drawable-xxhdpi-v4/cab_background_top_nebula.9.png
+SHA1-Digest: uOGuzvRViWdyRe4suciQGZ2Ny4c=
+
+Name: res/drawable-xxhdpi-v4/ab_texture_tile_nebula.png
+SHA1-Digest: bIGxzWTcWnw3yAlQUC6C+pB0wFs=
+
+Name: classes.dex
+SHA1-Digest: lRIubVsWrRFXBAHUQ9VAJYetl/o=
+
+Name: res/drawable-xhdpi-v4/btn_cab_done_focused_nebula.9.png
+SHA1-Digest: UBfEl62iNFNFq5T/99sV0j4ZmF4=
+
+Name: res/drawable-xxhdpi-v4/spinner_ab_default_nebula.9.png
+SHA1-Digest: FMtNd4SqBRXYJwFKD9gjndUJrZg=
+
+Name: res/drawable-xhdpi-v4/btn_cab_done_default_nebula.9.png
+SHA1-Digest: Qq0r4xPsdYklhrjUQWUKUdFb84o=
+
